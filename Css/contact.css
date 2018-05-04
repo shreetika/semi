@@ -1,7 +1,7 @@
 body{
 	margin: 0px;
 	padding: 0px;
-	background: url("E:/website/image/mo.jpg");
+	background: url("../image/mo.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	font-family: sans-serif;

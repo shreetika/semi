@@ -17,19 +17,19 @@ body,html{
 	background-attachment: fixed;
 }
 .pimg1{
-	background-image: url('E:/website/image/img1.jpeg');
+	background-image: url('../image/img1.jpeg');
 	min-height: 100%
 }
 .pimg2{
-	background-image: url('E:/website/image/img2.jpeg');
+	background-image: url('../image/img2.jpeg');
 	min-height: 900px;
 }
 .pimg3{
-	background-image: url('E:/website/image/img4.jpeg');
+	background-image: url('../image/img4.jpeg');
 	min-height: 900px;
 }
 .pimg4{
-	background-image: url('E:/website/image/img3.jpeg');
+	background-image: url('../image/img3.jpeg');
 	min-height: 900px;
 }
 .section{
@@ -116,31 +116,31 @@ opacity: 1;
 	transform: rotate(-45deg) scale(1.42);
 }
 .menu ul li.item1 .bg{
-	background: url(E:/website/image/one.jpg);
+	background: url(../image/one.jpg);
 	background-size: cover;
 
 
 }
 .menu ul li.item2 .bg{
-	background: url(E:/website/image/two.jpg);
+	background: url(../image/two.jpg);
 	background-size: cover;
 
 
 }
 .menu ul li.item3 .bg{
-	background: url(E:/website/image/three.jpeg);
+	background: url(../image/three.jpeg);
 	background-size: cover;
 
 
 }
 .menu ul li.item4 .bg{
-	background: url(E:/website/image/four.jpeg);
+	background: url(../image/four.jpeg);
 	background-size: cover;
 
 
 }
 .menu ul li.item5 .bg{
-	background: url(E:/website/image/five.jpg);
+	background: url(../image/five.jpg);
 	background-size: cover;
 
 
